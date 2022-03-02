@@ -15,8 +15,19 @@
   },
   "dependencies": {
     "gatsby": "^4.8.0",
+    "gatsby-plugin-image": "^2.8.2",
+    "gatsby-plugin-react-helmet": "^5.9.0",
+    "gatsby-plugin-sharp": "^4.8.2",
+    "gatsby-plugin-webfonts": "^2.2.1",
+    "gatsby-source-contentful": "^7.6.2",
+    "gatsby-source-filesystem": "^4.8.2",
+    "gatsby-transformer-sharp": "^4.8.0",
+    "normalize.css": "^8.0.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.3.1",
+    "slugify": "^1.6.5"
   },
   "devDependencies": {
     "prettier": "^2.5.1"
